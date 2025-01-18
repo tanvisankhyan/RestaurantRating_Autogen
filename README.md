@@ -9,6 +9,9 @@ The food at McDonald's was average, but the customer service was unpleasant. The
 The food is described as "average", which corresponds to a `food_score` of The customer service is described as "unpleasant", which corresponds to a `customer_service_score` of 2. Therefore, the agent should be able to determine `food_score: 3` and `customer_service_score: 2` for this example review.
 
 
+
+![Alt text](C:\Users\Tanvi Sankhyan\OneDrive\Desktop\LLM\LLM Agents\lab01_release-20241106T151003Z-001\lab01_release\image.png)
+
 Restaurant Rating analyser following sequential chats patterns
 
 1. Entry point agent initiate the converstaion, e.g. "May I know how good is "restaurant_name"?
